@@ -6,6 +6,7 @@ If you want to snipe and swap tokens for fun and profits check out my bot that I
 
 This is version V3 completely prepared to just download -> unzip -> set up -> run. No need to install anything just nodejs. 
 
+![Code preview](demo.png)
 
 # HOW TO RUN
 
