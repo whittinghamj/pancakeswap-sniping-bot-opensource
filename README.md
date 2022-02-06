@@ -13,11 +13,11 @@ I built a basic sniping bot for pancakeswap. Simply put, you fill the settings i
 
 Working on:
 
-[] Sell bought token with custom gas fee, slippage, amount.
+[ ] Sell bought token with custom gas fee, slippage, amount.
 
-[] Sell tokens with your custom increase in price, like 50%, 100%, 200%.
+[ ] Sell tokens with your custom increase in price, like 50%, 100%, 200%.
 
-[] Demo how the code looks
+[ ] Demo how the code looks
 
 
 ![Code preview](demo.png)
