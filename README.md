@@ -40,11 +40,11 @@ Successfull 40,000k snipe the other day :)
 
 # TIPS AND TRICKS
 
-For Pancakeswap have at least 0.5 BNB in funds, as you will need to get some fees, currencies and for the sniping itself
-For Uniswap at least 0.5 ETH to get everything working smooth as some tokens you will want to snipe have big slippage and if the transaction fails you still pay the gas so don't waste money
-Check new tokens on dextools
-DYOR on dextools and see if the token contract you are sniping doesn't have rug pulls included
-WARNING This bot is free and I did it as a hobby project. Great starting place for new devs. DYOR.
+1. For Pancakeswap have at least 0.5 BNB in funds, as you will need to get some fees, currencies and for the sniping itself
+2. For Uniswap at least 0.5 ETH to get everything working smooth as some tokens you will want to snipe have big slippage and if the transaction fails you 3. still pay the gas so don't waste money
+4. Check new tokens on dextools
+5. DYOR on dextools and see if the token contract you are sniping doesn't have rug pulls included
+6. WARNING This bot is free and I did it as a hobby project. Great starting place for new devs. DYOR.
 
 TROUBLESHOOT If your transaction failed:
 
