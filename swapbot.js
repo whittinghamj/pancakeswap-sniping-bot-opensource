@@ -19,7 +19,7 @@ const amount_in = "0.01"; // Amount of the Input Token
 const slippage = "16"; // Slippage in percents
 const router_address = "0x10ed43c718714eb63d5aa57b78b54704e256024e"; // 
 const factory_address = '0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73'; // 
-const private = "0b542765aad93c0dac15326c388ee8acbd9387e6c01ff9755ccd61b740f6965e"; // Private Key of Sender/Receiver Address
+const private = ""; // Private Key of Sender/Receiver Address
 const WEB3_PROVIDER = "wss://apis.ankr.com/wss/88591d71ecc841eebbbce2a22fd2b4a5/95dc4a450525705cdbf00454595b30e7/binance/full/main" // Your Web3 HTTP or WS Provider url
 
 
